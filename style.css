@@ -25,6 +25,24 @@ a {
     text-align: center;
 }
 
+footer {
+    padding: 30px 0;
+    clear: both;
+    font-size: 12px;
+    color: #ffffff;
+    color: #cccccc;
+    text-align: center;
+    background: #666666;
+    border-top: 8px solid #4aaaa5;
+    height: 50px;
+}
+
+.submit {
+    background-color: #4aaaaf;
+    width: 100px;
+    margin-bottom: 20px;
+}
+
 .item-box {
     height: 175px;
     width: 200px;
@@ -58,6 +76,7 @@ a {
     border: 3px solid #dddddd;
     width: 960px;
     margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .main-header {
@@ -70,4 +89,8 @@ a {
 
 .main-content {
     margin: 30px 0px 0px 10px;
+}
+
+.message-box {
+    height: 200px;
 }
